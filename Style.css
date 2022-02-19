@@ -1,0 +1,152 @@
+.main {
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+    .Hades {
+        width: 50%;
+        height: 90%;
+        background-color: white;
+       display: flex;
+       flex-flow: column nowrap;
+       justify-content: space-evenly;
+    }
+        .Persephone {
+            width: 100%;
+            height: 10%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 200%;
+        }
+            .Zag { 
+                width: 60%;
+                height: 60%;
+                display: flex;
+                justify-content: space-around;              
+            }
+        .Rog {
+            width: 100%;
+            height: 80%;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .Demeter {
+            width: 50%;
+            height: 100%;
+            background-color: 3D3BFF;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+            .Olimpius {
+                position: absolute;
+                left: 35%;
+                top: 17%;
+                width: 10%;
+                height: 10%;
+                background-image: url(Label.png);
+                background-repeat: no-repeat;
+                background-size: 45%;
+                animation: backwards;
+                -webkit-animation: backwards;
+}
+            .Aphrodite {
+                width: 60%;
+                height: 20%;
+                background-image: url(Group\ 1.png);
+                background-size: 50%;
+                background-repeat: no-repeat;
+                background-position:bottom;
+                color: 8B89FF;
+            }
+                .Aphrodite2 {
+                    font-size: 70%;
+                    color: 8B89FF;
+                    text-align: center;
+                    width: 100%;
+                    height: 70%;
+                    display: flex;
+                    justify-content: center;
+                    align-items:flex-end;
+                }
+            .Hephaestus {
+                width: 90%;
+                height: 22%;
+                background-image: url(Group\ 2.png);
+                background-size: 50%;
+                background-repeat: no-repeat;
+                background-position: top;
+            }
+                .Hephaestus2 {
+                    width: 100%;
+                    height: 70%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: flex-end;
+                    text-align: center;
+                    color: white;
+                    align-content: space-around;
+                }
+            .Hermes {
+                width: 60%;
+                height: 20%;
+                background-image: url(Group\ 4.png);
+                background-repeat: no-repeat;
+                background-size: 50%;
+                background-position: top;
+                display: flex;
+                justify-content: center;
+            }
+                    .Hermes2 {
+                        width: 100%;
+                        height: 85%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        color: white;
+                    }
+        .Zeus {
+            width: 50%;
+            height: 100%;
+            background-color: crimson;
+            display: flex;
+            justify-content:flex-start;
+            align-items: center;
+            flex-direction:column;
+        }
+            .Medea {
+                margin-top: 20%;
+            }
+                .jupiter {
+                    display: flex;
+                    justify-content: left;
+
+                }
+                .Mars {
+                    text-align: left;
+                }
+                .Gerakl {
+
+                }
+                .Kratos {
+
+                }
+                .Hazard {
+
+                }
+            .Poseidon {
+
+            }
+            .Pericl {
+
+            }
+            .Duza {
+
+            }
